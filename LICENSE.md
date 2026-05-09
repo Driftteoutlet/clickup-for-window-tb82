@@ -1,4 +1,4 @@
-
+smart ClickUp for Windows Module | search-functionality + cloud-sync offers the most advanced ClickUp for Windows module, with search-functionality and cloud-sync. Ideal for
 
 
 
